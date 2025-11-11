@@ -25,3 +25,22 @@ Criado para prática de:
 | **Git & GitHub** | Versionamento |
 
 ---
+
+
+## 📌 Funcionalidades
+
+| Função | Descrição |
+|-------|-----------|
+| Conversão de Valores | Converte um valor em reais para a moeda digital fictícia |
+| Entrada de Dados | Solicita ao usuário o valor a ser convertido |
+| Cálculo Automático | Aplica a taxa de conversão configurada no sistema |
+| Exibição do Resultado | Mostra o valor convertido de forma direta no console |
+
+---
+
+## 🏁 Como Executar
+
+```bash
+git clone https://github.com/PedroTerra11/Moeda-Digital-main
+cd Moeda-Digital-main
+node index.js
